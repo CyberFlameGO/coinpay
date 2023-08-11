@@ -6,7 +6,7 @@
   "dependencies": {
     "btoa": "^1.2.1",
     "express": "^4.16.3",
-    "node-fetch": "^2.1.2"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {},
   "scripts": {
